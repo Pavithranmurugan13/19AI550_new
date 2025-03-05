@@ -54,10 +54,13 @@ public class TransformOperations : MonoBehaviour
 ### Output:
 
 
+![Screenshot 2025-03-05 102125](https://github.com/user-attachments/assets/5193be7a-403e-4278-9b61-dea79b1e3303)
+
+![Screenshot 2025-03-05 102135](https://github.com/user-attachments/assets/a7f4c57a-952f-4203-a55d-99a69cdec327)
 
 
 
-
+![Screenshot 2025-03-05 102145](https://github.com/user-attachments/assets/1e367bfa-dcf5-43c5-9e02-50ac3a6d1b50)
 
 
 ### Result:
