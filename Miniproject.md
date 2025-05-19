@@ -5,7 +5,6 @@
 To develop an interactive 2D platformer game in Unity
 ### Algorithm:
 ```
-1.
 1.Create a new 2D Unity project and import your assets (player, tiles, background, coins).
 2.Design the level layout using Tilemap or platform prefabs inside a new scene.
 3.Create the Player GameObject with a Sprite Renderer, Rigidbody2D, and BoxCollider2D.
